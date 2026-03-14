@@ -3,19 +3,19 @@
     "OrganizationName": "Hello",
     "CoreVersion": "2.0.0.2",
     "ClassPlanSource": {
-        "Value": "https://raw.githubusercontent.com/username/classisland-mgmt-cfg/master/classplans.json",
+        "Value": "https://raw.githubusercontent.com/hzhbrother/classisland-all-in/master/classplans.json",
         "Version": 1
     },
     "TimeLayoutSource": {
-        "Value": "https://raw.githubusercontent.com/username/classisland-mgmt-cfg/master/timelayouts.json",
+        "Value": "https://raw.githubusercontent.com/hzhbrother/classisland-all-in/master/timelayouts.json",
         "Version": 1
     },
     "SubjectsSource": {
-        "Value": "https://raw.githubusercontent.com/username/classisland-mgmt-cfg/master/subjects.json",
+        "Value": "https://raw.githubusercontent.com/hzhbrother/classisland-all-in/master/subjects.json",
         "Version": 1
     },
     "PolicySource": {
-        "Value": "https://raw.githubusercontent.com/username/classisland-mgmt-cfg/master/policy.json",
+        "Value": "https://raw.githubusercontent.com/hzhbrother/classisland-all-in/master/policy.json",
         "Version": 1
     }
 }
