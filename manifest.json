@@ -1,0 +1,21 @@
+{
+    "ServerKind": 0,
+    "OrganizationName": "Hello",
+    "CoreVersion": "2.0.0.2",
+    "ClassPlanSource": {
+        "Value": "https://raw.githubusercontent.com/username/classisland-mgmt-cfg/master/classplans.json",
+        "Version": 1
+    },
+    "TimeLayoutSource": {
+        "Value": "https://raw.githubusercontent.com/username/classisland-mgmt-cfg/master/timelayouts.json",
+        "Version": 1
+    },
+    "SubjectsSource": {
+        "Value": "https://raw.githubusercontent.com/username/classisland-mgmt-cfg/master/subjects.json",
+        "Version": 1
+    },
+    "PolicySource": {
+        "Value": "https://raw.githubusercontent.com/username/classisland-mgmt-cfg/master/policy.json",
+        "Version": 1
+    }
+}
